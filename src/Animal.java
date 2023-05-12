@@ -34,5 +34,7 @@ public abstract class Animal {
 	public void setLegs(int legs) {
 		this.legs = legs;
 	}
-	
+	public void jump() { 
+		
+	}
 }
