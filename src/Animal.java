@@ -35,6 +35,6 @@ public abstract class Animal {
 		this.legs = legs;
 	}
 	public void jump() { 
-		
+		//beesten springen niet allemaal
 	}
 }
